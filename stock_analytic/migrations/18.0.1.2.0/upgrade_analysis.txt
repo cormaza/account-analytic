@@ -1,0 +1,11 @@
+---Models in module 'stock_analytic'---
+---Fields in module 'stock_analytic'---
+stock_analytic / account.analytic.applicability / business_domain (False)       : selection_keys removed: [expense]
+stock_analytic / account.analytic.applicability / stock_picking_type_id (many2one): NEW relation: stock.picking.type
+stock_analytic / stock.move               / analytic_distribution_search (json): DEL stored: False
+stock_analytic / stock.move.line          / analytic_distribution_search (json): DEL stored: False
+stock_analytic / stock.scrap              / analytic_distribution_search (json): DEL stored: False
+stock_analytic / stock.valuation.layer    / analytic_precision (integer)  : NEW hasdefault: default, stored: False
+---XML records in module 'stock_analytic'---
+NEW ir.ui.view: stock_analytic.account_analytic_plan_form_view
+NEW ir.ui.view: stock_analytic.stock_valuation_layer_tree

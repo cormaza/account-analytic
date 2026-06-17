@@ -1,0 +1,4 @@
+---Models in module 'purchase_analytic'---
+---Fields in module 'purchase_analytic'---
+purchase_analytic / purchase.order           / analytic_distribution_search (json): DEL stored: False
+---XML records in module 'purchase_analytic'---

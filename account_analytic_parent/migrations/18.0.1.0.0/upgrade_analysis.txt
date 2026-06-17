@@ -1,0 +1,4 @@
+---Models in module 'account_analytic_parent'---
+---Fields in module 'account_analytic_parent'---
+---XML records in module 'account_analytic_parent'---
+---nothing has changed in this module--

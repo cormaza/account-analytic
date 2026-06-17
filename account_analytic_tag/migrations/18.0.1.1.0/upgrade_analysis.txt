@@ -1,0 +1,4 @@
+---Models in module 'account_analytic_tag'---
+---Fields in module 'account_analytic_tag'---
+---XML records in module 'account_analytic_tag'---
+---nothing has changed in this module--
